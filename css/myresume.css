@@ -17,10 +17,6 @@ body {
 	 h1, h2, h3, h4, h5, h6, .subheading {
 		 text-transform: none;
 	 }
-	 
-	 h1, .h1 {
-		  font-size: 5rem;
-	  }
 	  
 	p.lead{
 		font-size: 1.2rem;
@@ -28,17 +24,16 @@ body {
 	 
 	 
 	 .bg-primary {
-		 background-color: #eb9d00
-         background-image: background-color: #eb9d00;
-background-image: url("https://www.transparenttextures.com/patterns/45-degree-fabric-light.png");
-/* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
+		 background-color: #F7B50F
+         background-image: url(../assets/img/always-gray.png)
+
 	 }
 	 
 	 .text-primary {
-		 color: #eb9d00
+		 color: #F7B50F
 	 }
 	 
 	 a {
-		 color: #eb9d00
+		 color: #F7B50F
 	 }
 	 
